@@ -2,4 +2,4 @@
 
 Currently a 2nd Year Student at Nanyang Polytechnic, Pursuing a Diploma in Infocomm & Security.
 
-[![Glen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diablo2912)](https://github.com/Diablo2912/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diablo2912&layout=compact)
