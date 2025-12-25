@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m Glen Loo
 
-I'm currently a year 2 student pursuing a Diploma in Infocomm and Security at Nanyang Polytechnic
+Currently a 2nd Year Student at Nanyang Polytechnic, Pursuing a Diploma in Infocomm & Security.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diablo2912&layout=compact)
+[![Glen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diablo2912)](https://github.com/Diablo2912/github-readme-stats)
